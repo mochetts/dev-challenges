@@ -3,7 +3,7 @@ When we run the application Doctor should ask you for your key metrics.
 
 You can send as many key metrics as you want.
 
-If you send key metric which is not supported you should receive message with allowed key metrics.
+If you send a key metric which is not supported you should receive message with allowed key metrics.
 
 Key Metrics should be saved in valid format. If not valid send a proper message.
 You should be able to ask for a status of particular key metric but also for a diagnosis.
