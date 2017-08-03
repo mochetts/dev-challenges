@@ -177,3 +177,4 @@ You don't need to worry about persisting events in a database; in-memory storage
 
 - Use something like [Chronic](https://github.com/mojombo/chronic) to support start and end times entered as more human-friendly strings, e.g. `start_time: '8/2/17 3:30pm'`
 - Validate calendar, event, and location parameters and provide helpful error messaging.
+- Add support for searching events with regular exprssions.
