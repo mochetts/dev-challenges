@@ -173,6 +173,14 @@ cal.remove_events("Andy Warhol's Birthday")
 
 You don't need to worry about persisting events in a database; in-memory storage is fine for this exercise. Also, we've suggested an application interface and possible output in the examples above, but feel free to be creative!
 
+### Hints
+
+Some of Rails' date-related ActionSupport extensions might be useful. You can import them into a Ruby script with:
+```ruby
+require 'active_support'
+require 'active_support/core_ext'
+```
+
 ### Bonus Points
 
 - Use something like [Chronic](https://github.com/mojombo/chronic) to support start and end times entered as more human-friendly strings, e.g. `start_time: '8/2/17 3:30pm'`
