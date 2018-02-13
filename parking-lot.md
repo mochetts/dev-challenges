@@ -13,7 +13,7 @@ So if Jimmy gets the following cars to be checked in:
  | Brand     |  Size | Price |
  | --------- |:-----:|:-----:| 
  | Dodge     |  15   | 50    |
- | Jaguar    |  20   | 170   |
+ | Jaguar    |  45   | 170   |
  | Mercedes  |  10   | 100   |
  | Audi      |  20   | 30    |
 
