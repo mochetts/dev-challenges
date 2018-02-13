@@ -7,7 +7,7 @@ You are required to:
 
 1) Create a set of classes to manage this software.
 2) Create a function `find_parking_spot` that returns the first parking spot in which an incoming vehicle can park.
-3) Now Jimmy says that there are times in the day when more than one vehicle arrives at the gate of the parking lot. He also has a special parking spot where he can fit in multiple vehicles of different sizes, the only constraint is that the sum of car sizes to be parked in this special parking spot cannot be larger than 50. On the other hand, he charges a different price/hour depending on the brand of the vehicle. So Jimmy wants a way to determine the best combination of vehicles to fit in this special parking spot. 
+3) Now Jimmy says that there are times in the day when more than one vehicle arrives at the gate of the parking lot. He also has a special parking spot where he can fit in multiple vehicles of different sizes, the only constraint is that the sum of car sizes to be parked in this special parking spot cannot be larger than 50. On the other hand, he charges a different price/hour depending on the brand of the vehicle. So Jimmy wants a way to determine the best combination of vehicles to fit in this special parking spot optimizing the profit. 
 So if Jimmy gets the following cars to be checked in:
 
  | Brand     |  Size | Price |
